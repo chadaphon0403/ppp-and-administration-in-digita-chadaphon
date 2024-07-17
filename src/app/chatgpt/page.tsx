@@ -1,10 +1,10 @@
 import React from 'react'
-import Ai from '../components/Ai'
+import Chatgpt from '../components/Chatgpt'
 
 export default function page() {
   return (
-    <div>page
-      <Ai/>
+    <div>
+        <Chatgpt/>
     </div>
   )
 }

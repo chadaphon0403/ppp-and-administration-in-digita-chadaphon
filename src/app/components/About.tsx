@@ -7,12 +7,10 @@ export default function About() {
         <div className="container px-5 py-24 mx-auto">
           <div className="flex flex-col text-center w-full mb-20">
             <h1 className="text-2xl font-medium title-font mb-4 text-gray-900 tracking-widest">
-              OUR TEAM
+              หลักสูตรรัฐประศาสนศาสตร์ คณะศิลปศาสตร์และวิทยาการจัดการ มหาวิทยาลัยเกษตรศาสตร์ วิยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร
             </h1>
             <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-              Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
-              gentrify, subway tile poke farm-to-table. Franzen you probably
-              haven't heard of them.
+              หลักสูตรรัฐประศาสนศาสตร์ มีการจัดการเรียนการสอนตามภารกิจ 4 ด้านดังนี้
             </p>
           </div>
           <div className="flex flex-wrap -m-4">
@@ -25,7 +23,7 @@ export default function About() {
                 />
                 <div className="flex-grow sm:pl-8">
                   <h2 className="title-font font-medium text-lg text-gray-900">
-                    Holden Caulfield
+                    การเรียนการสอน
                   </h2>
                   <h3 className="text-gray-500 mb-3">UI Developer</h3>
                   <p className="mb-4">
