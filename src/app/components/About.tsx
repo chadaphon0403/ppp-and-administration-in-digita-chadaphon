@@ -3,7 +3,7 @@ import React from "react";
 export default function About() {
   return (
     <div>
-      <section className="text-gray-600 body-font">
+      <section className="text-gray-600 body-font shadow-lg p-16 mb-5 bg-body rounded">
         <div className="container px-5 py-24 mx-auto">
           <div className="flex flex-col text-center w-full mb-20">
             <h1 className="text-2xl font-medium title-font mb-4 text-gray-900 tracking-widest">
@@ -83,7 +83,7 @@ export default function About() {
                 />
                 <div className="flex-grow sm:pl-8">
                   <h2 className="title-font font-medium text-lg text-gray-900">
-                    Alper Kamu
+                    การวิจัย
                   </h2>
                   <h3 className="text-gray-500 mb-3">Designer</h3>
                   <p className="mb-4">
@@ -143,7 +143,7 @@ export default function About() {
                 />
                 <div className="flex-grow sm:pl-8">
                   <h2 className="title-font font-medium text-lg text-gray-900">
-                    Atticus Finch
+                    การบริหารวิชาการ
                   </h2>
                   <h3 className="text-gray-500 mb-3">UI Developer</h3>
                   <p className="mb-4">
@@ -203,7 +203,7 @@ export default function About() {
                 />
                 <div className="flex-grow sm:pl-8">
                   <h2 className="title-font font-medium text-lg text-gray-900">
-                    Henry Letham
+                    การทำนุบำรุงศิลปวัฒนธรรม
                   </h2>
                   <h3 className="text-gray-500 mb-3">Designer</h3>
                   <p className="mb-4">

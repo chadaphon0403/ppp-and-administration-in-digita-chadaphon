@@ -3,7 +3,7 @@ import Ai from '../components/Ai'
 
 export default function page() {
   return (
-    <div>page
+    <div>
       <Ai/>
     </div>
   )
