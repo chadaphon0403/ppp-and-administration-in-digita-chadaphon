@@ -3,7 +3,6 @@ import React from "react";
 export default function Chatgpt() {
   return (
     <div>
-      
       <section className="text-gray-600 body-font shadow-lg p-16 mb-5 bg-body rounded ">
         <div className="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
           <img

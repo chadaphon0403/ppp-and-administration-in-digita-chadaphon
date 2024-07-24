@@ -7,10 +7,12 @@ export default function About() {
         <div className="container px-5 py-24 mx-auto">
           <div className="flex flex-col text-center w-full mb-20">
             <h1 className="text-2xl font-medium title-font mb-4 text-gray-900 tracking-widest">
-              หลักสูตรรัฐประศาสนศาสตร์ คณะศิลปศาสตร์และวิทยาการจัดการ มหาวิทยาลัยเกษตรศาสตร์ วิยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร
+              หลักสูตรรัฐประศาสนศาสตร์ คณะศิลปศาสตร์และวิทยาการจัดการ
+              มหาวิทยาลัยเกษตรศาสตร์ วิยาเขตเฉลิมพระเกียรติ จังหวัดสกลนคร
             </h1>
             <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-              หลักสูตรรัฐประศาสนศาสตร์ มีการจัดการเรียนการสอนตามภารกิจ 4 ด้านดังนี้
+              หลักสูตรรัฐประศาสนศาสตร์ มีการจัดการเรียนการสอนตามภารกิจ 4
+              ด้านดังนี้
             </p>
           </div>
           <div className="flex flex-wrap -m-4">
