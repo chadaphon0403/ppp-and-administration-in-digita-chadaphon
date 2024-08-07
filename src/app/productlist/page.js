@@ -1,10 +1,9 @@
 import React from "react";
-import Chatgpt from "../../components/Chatgpt";
-
+import ProductsList from "../../components/ProductList"
 export default function page() {
   return (
     <div>
-      <Chatgpt />
+      <ProductsList/>
     </div>
   );
 }
